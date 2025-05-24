@@ -17,4 +17,4 @@
    - requirements.txt
 3. 到 https://streamlit.io/cloud 部署你的應用
 
-By [Your Name]
+By L
